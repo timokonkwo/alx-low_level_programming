@@ -7,6 +7,6 @@ int main(void)
 {
 char mine[] = "with proper grammar, but the outcome is a piece of art,";
 
-printf("%s", mine);
+printf("%s\n", mine);
 return (0);
 }
