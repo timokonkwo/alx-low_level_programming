@@ -5,8 +5,8 @@
 
 int main(void)
 {
-char mine[] = "\"Programming is like building a multilingual puzzle";
+char mine[] = "with proper grammar, but the outcome is a piece of art,";
 
-printf("%s",mine);
+printf("%s", mine);
 return (0);
 }
