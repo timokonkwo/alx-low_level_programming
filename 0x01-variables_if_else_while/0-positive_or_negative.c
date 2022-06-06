@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
@@ -19,4 +20,5 @@ int main(void)
 		printf("is negative");
 	}
 	/* your code goes there */
-	return (0)
+	return (0);
+}
